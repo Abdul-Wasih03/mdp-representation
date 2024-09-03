@@ -65,7 +65,8 @@ R =
 
 ### Graphical Representation : 
 
-![out1re](https://github.com/anto-richard/mdp-representation/assets/93427534/941b8ca3-e1ba-4f56-8e99-6c0337389d91)
+![mdp](https://github.com/user-attachments/assets/b056c9ab-d781-4455-9bff-9389613aa86c)
+
 
 ## PYTHON REPRESENTATION :
 
